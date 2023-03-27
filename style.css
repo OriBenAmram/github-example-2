@@ -1,0 +1,10 @@
+body { 
+    background-color: rgb(40, 100, 104);
+    color: whitesmoke;
+    text-align: center;
+}
+
+img { 
+    border-radius: 15px;
+    width: 70%;
+}
